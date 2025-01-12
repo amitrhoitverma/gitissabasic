@@ -1,0 +1,1 @@
+print("amit verma learn fast way")
